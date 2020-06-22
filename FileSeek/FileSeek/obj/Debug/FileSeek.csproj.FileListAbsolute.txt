@@ -1,0 +1,9 @@
+C:\Users\user\source\17\norsi\FileSeek\FileSeek\bin\Debug\FileSeek.exe.config
+C:\Users\user\source\17\norsi\FileSeek\FileSeek\bin\Debug\FileSeek.exe
+C:\Users\user\source\17\norsi\FileSeek\FileSeek\bin\Debug\FileSeek.pdb
+C:\Users\user\source\17\norsi\FileSeek\FileSeek\obj\Debug\FileSeek.Form1.resources
+C:\Users\user\source\17\norsi\FileSeek\FileSeek\obj\Debug\FileSeek.Properties.Resources.resources
+C:\Users\user\source\17\norsi\FileSeek\FileSeek\obj\Debug\FileSeek.csproj.GenerateResource.Cache
+C:\Users\user\source\17\norsi\FileSeek\FileSeek\obj\Debug\FileSeek.exe
+C:\Users\user\source\17\norsi\FileSeek\FileSeek\obj\Debug\FileSeek.pdb
+C:\Users\user\source\17\norsi\FileSeek\FileSeek\obj\Debug\FileSeek.csprojResolveAssemblyReference.cache
